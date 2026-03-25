@@ -1,4 +1,4 @@
-"""项目入口：启动 PyQt6 桌面应用。"""
+"""支持 python -m imrec。"""
 
 from imrec.app import run
 
